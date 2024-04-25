@@ -9,7 +9,7 @@
  
 <a href="https://github.com/UjwalKandi"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
 
-- 🎓 I'm a Computer Engineering undergrad   
+- 🎓 I'm a Computer Engineering   
 - ⭐ 2024's Objective: Contribute more to open source <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - ⚡ I love programming 
 
@@ -54,16 +54,7 @@
  </p>
  -->
 
- <p align='left'>
-  
- 
- <a href="https://instagram.com/ujwal_kandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/insta%20rect.svg"></a>&nbsp;&nbsp;
- <a href="https://www.kaggle.com/ujwalkandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/Kaggle%20rect.svg"></a>&nbsp;&nbsp;
- <a href="https://public.tableau.com/profile/ujwal.kandi#!/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/tableau%20rect.svg"></a>&nbsp;&nbsp;
- <a href="https://dev.to/ujwalkandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/master/svg/Dev--black.svg"></a>&nbsp;&nbsp;
- <a href="https://github.com/UjwalKandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/github%20rect.svg"></a>&nbsp;&nbsp;
- 
- </p>
+
 
 
 ![build](https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/badge.svg)
