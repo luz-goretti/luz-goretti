@@ -3,6 +3,7 @@
 -->
 
 ![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
+## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 
 <h2 align="left">Hi there, I'm luz <a href="https://www.linkedin.com/in/ujwalkandi" target="_blank" rel="noopener noreferrer"></a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
